@@ -2,7 +2,7 @@
 快捷编译单文件c程序
 
 
-'''
+"""
 import os
 
 def getFile(p='.'):
@@ -44,4 +44,5 @@ if __name__ == '__main__':
     ls = getFile()
     for i in ls:
         compile(i)
-'''
+
+"""
