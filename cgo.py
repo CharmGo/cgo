@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import os,json
 def getFile(p='.'):
     gcc = []
