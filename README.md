@@ -67,4 +67,17 @@ if __name__ == '__main__':
 
 
 
-`main.py`为便捷启动server脚本用于学习`learn`下的C语言教程
+`main.py`脚本可便捷启动server脚本用于学习`learn`下的C语言教程
+## 用法
+
+### linux: 
+
+启动服务：`./main.py`
+
+查看帮助：`./main.py -h`
+
+### win
+
+启动服务：`python3 ./main.py`
+
+查看帮助：`python3 ./main.py -h`
